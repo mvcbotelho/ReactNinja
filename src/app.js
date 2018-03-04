@@ -8,7 +8,7 @@ const App = React.createClass({
       <div className='container'>
         <Title />
         <Title name='Dev React' />
-        <Title lastName ='Carvalho' />
+        <Title lastName='Carvalho' />
         <Title name='Marcus' lastName='Carvalho' />
       </div>
     )
