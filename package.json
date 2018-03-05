@@ -27,5 +27,10 @@
     "start": "node server.js"
   },
   "author": "Marcus Botelho <marcus.itec@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "standard": {
+    "globals": [
+      "alert"
+    ]
+  }
 }
