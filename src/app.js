@@ -2,7 +2,7 @@
 import React, { Component } from 'react'
 import Button from './button'
 import LikeButton from './likeButton'
-import SearchButton from './searcButton'
+import SearchButton from './searchButton'
 
 class App extends Component {
   render () {
